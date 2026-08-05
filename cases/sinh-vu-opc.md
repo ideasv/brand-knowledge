@@ -1,8 +1,8 @@
-# Case Study · Sinh Vũ OPC tự build Hệ Điều hành Thương hiệu
+# Case Study · Hệ vận hành thương hiệu Sinh Vũ tự xây cho chính mình
 
 > "Studio nào không tự dùng BOS thì không bán BOS."
 
-**Case URL**: https://sinhvu.com/case/sinh-vu-opc/
+**Case URL**: https://sinhvu.com/case/he-van-hanh-sinh-vu/
 **Type**: Meta self-application
 **Duration**: 6 tuần build → live, vận hành 12 tháng+
 **Service applied**: O2 Brand Operating System (BOS Lite + AI agent team)
@@ -15,7 +15,7 @@ Năm 2019, sau 10 năm điều hành Sinh Vũ Studio mô hình truyền thống 
 - Founder không scale: anh Sinh là bottleneck mọi quyết định sáng tạo
 - 50 transactional clients/năm không xây được moat dài hạn
 
-Anh Sinh pivot sang mô hình One Person Company (OPC) với AI Agents:
+Anh Sinh dựng một studio vận hành do founder trực tiếp dẫn dắt, cùng đội ngũ cộng tác và hệ trợ lý chuyên môn:
 - 1 founder + 10 trợ lý AI chuyên môn
 - 5-10 strategic clients/năm + retainer 3-5 long-term
 - Brand-led growth thay vì transactional growth
@@ -78,14 +78,13 @@ Sinh Vũ build BOS cho chính mình trong 6 tuần:
 
 2. **AI Agents replicate founder thinking, không thay thế founder**. Anh Sinh vẫn xem trực tiếp mọi brief, AI giúp giảm 80% công việc preparation.
 
-3. **Scale qua leverage, không qua headcount**. Mô hình truyền thống scale = thuê thêm người. OPC scale = thêm system + AI.
+3. **Scale qua leverage, không qua headcount**. Mô hình truyền thống scale = thuê thêm người. Sinh Vũ scale = thêm system + hệ trợ lý.
 
 4. **5-10 strategic clients > 50 transactional clients**. Doanh thu tương đương, chất lượng và moat khác biệt.
 
 5. **6 tuần build là khả thi nếu founder đã có foundation A1 + A2**. Khách chưa có Foundation phải làm trước.
 
 ## Engage
-
-- Xem live: https://sinhvu.com/case/sinh-vu-opc/
+- Xem live: https://sinhvu.com/case/he-van-hanh-sinh-vu/
 - Brief 10 bước: https://sinhvu.com/cua-1/
 - Trao đổi với anh Sinh: design@sinhvu.com · 0968 665 688
