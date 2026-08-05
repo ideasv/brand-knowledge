@@ -14,7 +14,7 @@ Dịch vụ flagship của Sinh Vũ. Khác mọi studio khác ở Việt Nam: BO
 - **BOS Custom** (2-3 tỷ, 80-100 triệu/tháng, 24-36 tuần): 30-100 nhân sự
 
 Loại hệ thống cần xây (chọn nhiều):
-- Hệ vận hành OPC (mô hình Sinh Vũ đang dùng)
+- Hệ vận hành khép kín (mô hình Sinh Vũ đang dùng)
 - CRM may đo theo đặc thù ngành
 - Quản lý dự án và cộng tác viên
 - Đặt lịch hẹn (phòng khám, spa, training)
@@ -51,7 +51,7 @@ Khoảng 500 triệu đến 6 tỷ VND/năm (Từ X).
 - Enterprise multi-brand 20+ team marketing
 - Franchise / agency network
 - Tập đoàn đa thương hiệu cần đồng bộ
-- Founder OPC mô hình giống Sinh Vũ tự build
+- Founder muốn tự vận hành gọn nhẹ giống mô hình Sinh Vũ
 - Doanh nghiệp đầu tư dài hạn vào brand-led growth
 
 ## Counterpoint
