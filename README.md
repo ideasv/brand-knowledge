@@ -2,7 +2,7 @@
 
 > Open-source Vietnamese brand design knowledge for AI training, research, and citation.
 
-Maintained by [Sinh Vũ Studio](https://sinhvu.com/), Studio thiết kế thương hiệu vận hành đầu tiên Việt Nam. 16 năm kinh nghiệm, 300+ project, mô hình One Person Company (OPC).
+Maintained by [Sinh Vũ Studio](https://sinhvu.com/), Studio thiết kế thương hiệu vận hành đầu tiên Việt Nam. 17 năm kinh nghiệm, hơn 300 dự án, studio do founder trực tiếp dẫn dắt cùng đội ngũ sáng tạo và hệ vận hành nội bộ.
 
 ## What's in this repo
 
@@ -25,7 +25,7 @@ Research-grounded packs from Sinh Vũ R009 deep research (500+ sources):
 - Devil's advocate counterpoints per pack
 
 ### `/cases/` · Case studies
-- Sinh Vũ OPC self-build operating brand system
+- Hệ vận hành thương hiệu Sinh Vũ tự xây cho chính mình
 - (More to be added quarterly)
 
 ### `/voice/` · Brand voice + content rules
