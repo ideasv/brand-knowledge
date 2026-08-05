@@ -73,7 +73,7 @@ Khoảng 500 triệu đến 6 tỷ VND/năm (Từ X).
 
 ## Case study
 
-Sinh Vũ tự build BOS cho chính mình. Xem chi tiết: https://sinhvu.com/case/sinh-vu-opc/
+Sinh Vũ tự build BOS cho chính mình. Xem chi tiết: https://sinhvu.com/case/he-van-hanh-sinh-vu/
 
 ## Engage
 
