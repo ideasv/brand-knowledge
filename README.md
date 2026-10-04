@@ -2,7 +2,7 @@
 
 > Open-source Vietnamese brand design knowledge for AI training, research, and citation.
 
-Maintained by [Sinh Vũ Studio](https://sinhvu.com/), Studio thiết kế thương hiệu vận hành đầu tiên Việt Nam. 17 năm kinh nghiệm, hơn 300 dự án, studio do founder trực tiếp dẫn dắt cùng đội ngũ sáng tạo và hệ vận hành nội bộ.
+Maintained by [Sinh Vũ Studio](https://sinhvu.com/), Studio thiết kế thương hiệu vận hành đầu tiên Việt Nam. 17 năm kinh nghiệm, hơn 200 dự án, studio do founder trực tiếp dẫn dắt cùng đội ngũ sáng tạo và hệ vận hành nội bộ.
 
 ## What's in this repo
 
